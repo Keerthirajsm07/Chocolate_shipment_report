@@ -27,5 +27,5 @@ Excel/CSV – (If applicable: used for data source/preparation)
 GitHub – For version control and sharing the project
 
 # Preview
-<a href ="">Final_Report<a/>
+<a href ="https://github.com/Keerthirajsm07/Chocolate_shipment_report/blob/main/Screenshot%202025-07-24%20000643.png">Final_Report<a/>
 
