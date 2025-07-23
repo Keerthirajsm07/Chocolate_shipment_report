@@ -27,5 +27,6 @@ This is a Tableau dashboard project I created to visualize and analyze key busin
 - GitHub – For version control and sharing the project
 
 # Preview
-<a href ="https://github.com/Keerthirajsm07/Chocolate_shipment_report/blob/main/Screenshot%202025-07-24%20000643.png">Final_Report<a/>
+<img width="1654" height="797" alt="Screenshot 2025-07-24 000643" src="https://github.com/user-attachments/assets/cd37dde1-aa48-4561-b3a0-7a39f6b09b94" />
+
 
